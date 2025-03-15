@@ -1,14 +1,17 @@
 ## Hi there 👋
 
 <p align="center">
+  <h2>🌍 Find me here:</h2>
   
-  ## 🌍 Find me here:
+  <a href="https://www.linkedin.com/in/piotrklocek/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotrklocek/)
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pioterek/)
+  <a href="https://leetcode.com/u/Pioterek/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
 
-  ## 📊 GitHub Stats
+  <h2>📊 GitHub Stats</h2>
   
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrKlocek&layout=compact&langs_count=8&theme=tokyonight)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrKlocek&layout=compact&langs_count=8&theme=tokyonight" alt="Most Used Languages">
 </p>
